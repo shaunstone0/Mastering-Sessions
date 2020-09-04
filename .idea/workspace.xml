@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="737296f8-ea26-4bc7-aa77-2fbaa6a7d063" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/shaunstone0/Mastering-Sessions" />
+      </set>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/client/package.json" />
+  </component>
+  <component name="ProjectId" id="1h0jHIjYFkN8rr9QixRRe7wgxiE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.55" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\websites\Rythum\node_modules\prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="737296f8-ea26-4bc7-aa77-2fbaa6a7d063" name="Default Changelist" comment="" />
+      <created>1599154815709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599154815709</updated>
+      <workItem from="1599154816899" duration="6172000" />
+      <workItem from="1599202982079" duration="16152000" />
+      <workItem from="1599245159362" duration="607000" />
+      <workItem from="1599245779592" duration="340000" />
+      <workItem from="1599246139119" duration="154000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1599245932484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599245932484</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/client" />
+    </ignored-roots>
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1310" y="646" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599155934355">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1310" y="646" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1030/0.0.3072.1688@0.0.3072.1688" timestamp="1599155934355" />
+    <state x="1267" y="591" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599160590713">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1267" y="591" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1030/0.0.3072.1688@0.0.3072.1688" timestamp="1599160590713" />
+    <state x="93" y="93" width="2886" height="1502" key="DiffContextDialog" timestamp="1599245770807">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="93" y="93" width="2886" height="1502" key="DiffContextDialog/-1920.0.1920.1030/0.0.3072.1688@0.0.3072.1688" timestamp="1599245770807" />
+    <state x="823" y="402" key="FileChooserDialogImpl" timestamp="1599216344143">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1316" y="585" key="FileChooserDialogImpl/-1920.0.1920.1030/0.0.3072.1688@0.0.3072.1688" timestamp="1599155686796" />
+    <state x="823" y="402" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1599216344143" />
+    <state x="1168" y="398" key="SettingsEditor" timestamp="1599246293033">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1168" y="398" key="SettingsEditor/-1920.0.1920.1030/0.0.3072.1688@0.0.3072.1688" timestamp="1599246293033" />
+    <state x="1367" y="714" key="VCS.EditChangelistDialog" timestamp="1599246230195">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1367" y="714" key="VCS.EditChangelistDialog/-1920.0.1920.1030/0.0.3072.1688@0.0.3072.1688" timestamp="1599246230195" />
+    <state x="1129" y="577" key="Vcs.Push.Dialog.v2" timestamp="1599245741457">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1129" y="577" key="Vcs.Push.Dialog.v2/-1920.0.1920.1030/0.0.3072.1688@0.0.3072.1688" timestamp="1599245741457" />
+  </component>
+</project>
